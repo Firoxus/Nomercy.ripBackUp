@@ -1,0 +1,20 @@
+-- Created by ! Firox#8482 
+-- NoMercy.rip cracked and pwned by Federal#9999 :3
+
+--// State of Anarchy
+if game.PlaceId == 2000062521 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Firoxus/Nomercy.ripBackUp/main/Soa"))()
+
+--// Rushpoint
+if game.PlaceId == 5993942214 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Firoxus/Nomercy.ripBackUp/main/RushPoint"))()
+
+--// Doors
+if game.PlaceId == 6516141723 then
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Firoxus/Nomercy.ripBackUp/main/doors"))()
+
+else
+    loadstring(game:HttpGet("https://github.com/Firoxus/Nomercy.ripBackUp/blob/main/universal"))()
+end
+end
+end
