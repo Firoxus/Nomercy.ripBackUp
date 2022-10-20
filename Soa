@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://fed.gay/files/nomercy/loader.lua"))() -- universal bypass owo
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Firoxus/Nomercy.ripBackUp/main/loader"))() -- universal bypass owo
 
 -- This file was generated using Luraph Obfuscator v13.5.6
 
